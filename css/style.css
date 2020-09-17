@@ -1,0 +1,32 @@
+
+* {
+    color: greenyellow;
+}
+.odd{
+    color: magenta;
+    font-size: large;
+}
+.even{
+    color: mediumspringgreen;
+}
+p {
+color: brown;
+text-align: center;
+}
+h1 {
+color: seagreen;
+}
+#sylvia{
+color: darkblue;
+}
+.iron{
+text-align: right;
+font-size: 7px;
+}
+h2.iron{
+font-size: 15px;
+}
+#first-parag{
+font-size: 20px;
+}
+
